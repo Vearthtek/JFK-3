@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ICallable:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ICallable_jar</output-path>
+    <root id="archive" name="ICallable.jar">
+      <element id="module-output" name="ICallable" />
+    </root>
+  </artifact>
+</component>
